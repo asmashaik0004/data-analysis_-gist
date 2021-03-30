@@ -1,0 +1,61 @@
+    1  pwd
+    2  ls
+    3  touch kavya.txt
+    4  pwd
+    5  ls
+    6  touch kavya.txt
+    7  d:
+    8  cd d:
+    9  pwd
+   10  dc e:
+   11  cd e:
+   12  pwd
+   13  cd k:
+   14  cd c:
+   15  pwd
+   16  mkdir demo.txt
+   17  cd d:
+   18  touch demo(1....6)
+   19  pw
+   20  pwd
+   21  echo hello
+   22  touch hello.txt
+   23  ls
+   24  echo hello2.txt
+   25  touch hello2.txt
+   26  ls
+   27  cat hello >> hello2
+   28  touch demo(1...15).txt
+   29  echo (1..100)
+   30  rm .*.txt
+   31  ls
+   32  rmdir GIST
+   33  LS
+   34  rm demo.txt
+   35  ls
+   36  rm file{1..10}.txt
+   37  ls
+   38  rm file{50..100}.txt
+   39  rm c language{50..100}.cpp
+   40  ls
+   41  rm *.txt
+   42  ls
+   43  rm *.py
+   44  nano myfile.txt
+   45  cat myfile.txt
+   46  nan0 myfile.txt
+   47  nano myfile.txt
+   48  cat myfile.txt
+   49  echo "hello">>myfile2.txt
+   50  cat myfile2.txt
+   51  echo{1..1000}>>myfile3.txt
+   52  echo {1..1000}>>myfile3.txt
+   53  cat myfile3.txt
+   54  mv myfile3.txt myfile2.txt
+   55  cat myfile2.txt
+   56  ls
+   57  cp myfile2.txt myfile.txt
+   58  cat myfile.txt
+   59  ls
+   60  history 
+   61  history >>history.txt
